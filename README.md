@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I’m Devanshu Patel, a Data Science Enthusiast and AR Hobbyist based in India. My journey in tech has been an exciting blend of Python, AI, and creativity. Here’s a glimpse into my world:<br><br>🔍 Currently Working On: Data science projects that blend Python, AI, and creativity.<br>📚 Currently Learning: Machine learning and statistical modeling.<br>🙌 Seeking Help With: Insights from seasoned data scientists and AR experts.<br>📖 Fun Fact: I devour non-fiction books like a hungry AI model.
+👋 Hello! I’m **Devanshu Patel**, a Data Science Enthusiast and AR Hobbyist based in India. My journey in tech has been an exciting blend of Python, AI, and creativity. Here’s a glimpse into my world:<br><br>**🔍 Currently Working On:** Data science projects that blend Python, AI, and creativity.<br>**📚 Currently Learning:** Machine learning and statistical modeling.<br>**🙌 Seeking Help With:** Insights from seasoned data scientists and AR experts.<br>**📖 Fun Fact:** I devour non-fiction books like a hungry AI model.
 
 
 ## 🌐 Socials:
